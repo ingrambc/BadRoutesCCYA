@@ -1,0 +1,13 @@
+body {
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.carousel {
+    padding: 20px;
+}
+
